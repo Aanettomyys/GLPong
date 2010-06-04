@@ -5,8 +5,6 @@
  *      Author: cdev
  */
 
-// TODO Переписать таки с C99 на ANSI C
-
 #include "games.h"
 
 int main(int argc, char ** argv)
